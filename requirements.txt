@@ -1,0 +1,6 @@
+-e aiohttp
+websocket-client
+chess
+torch
+numpy
+pygame
